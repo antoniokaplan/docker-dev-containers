@@ -13,8 +13,3 @@ run using docker & mount `/notebooks` to save work:
 ```
 or docker compose:
 `docker-compose up --build`
-
-Links to docs:
-a. *Jupyter Quickstart* - [https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html)
-b. *Base Images* - [https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html#jupyter-base-notebook](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html#jupyter-base-notebook)
-c. *ijavascript* - [https://github.com/n-riesco/ijavascript](https://github.com/n-riesco/ijavascript)
